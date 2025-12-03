@@ -14,8 +14,8 @@ env/
 ENV/
 
 # IDEs
-.vscode/
 .idea/
+temp_auto_push.bat
 *.swp
 *.swo
 *~
@@ -33,3 +33,5 @@ quality_report.txt
 # OS files
 Thumbs.db
 .DS_Store
+.gitignore
+temp_interactive_push.bat

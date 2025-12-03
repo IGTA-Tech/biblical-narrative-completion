@@ -1,0 +1,126 @@
+Subject: Easy Background Job - $375 for Copy/Paste Work Using Claude Code
+
+Hi [Developer Name],
+
+I have an easy project that's perfect for running in the background while you work on other things. It's basically a copy/paste job using Claude Code - very straightforward.
+
+=== THE JOB ===
+
+Complete a Biblical narrative document from 53.8% to 100% using automated tools and AI.
+
+Your workflow:
+1. Copy prompt from template
+2. Paste into Claude Code
+3. Let Claude write the content (10-15 min while you do other work)
+4. Run automated quality checker (1 command)
+5. Copy result into document
+6. Commit to GitHub
+7. Repeat
+
+That's it! The AI does the writing, the scripts do the quality checking. You just manage the process.
+
+=== PAYMENT ===
+
+$375 TOTAL (5 payments):
+
+• $75 DEPOSIT - Paid immediately when you accept the job
+• $75 - After completing 25% of remaining work (~28 sections)
+• $75 - After completing 50% of remaining work (~55 sections)
+• $75 - After completing 75% of remaining work (~83 sections)
+• $75 - After completing 100% (all 111 sections done)
+
+=== WHY THIS IS EASY ===
+
+✅ Everything is already set up and documented
+✅ Claude Code does all the actual writing
+✅ Automated scripts check quality (tells you if it's good enough)
+✅ Clear templates and copy/paste prompts ready
+✅ 129/240 sections already done (you just finish the rest)
+✅ Examples showing exactly what A+ quality looks like
+✅ Runs in background - work on other projects while Claude processes
+
+Repository with everything ready:
+https://github.com/IGTA-Tech/biblical-narrative-completion
+
+=== WHAT YOU NEED ===
+
+✓ Can use Claude Code (or any AI coding assistant) - FREE
+✓ Can run Python scripts (quality_checker.py, progress_tracker.py)
+✓ Can use Git (basic: add, commit, push)
+✓ Can follow step-by-step instructions
+
+You DON'T need:
+✗ Biblical knowledge (Claude handles content)
+✗ Writing skills (Claude writes everything)
+✗ Research skills (Claude does research)
+
+=== TYPICAL SECTION (15-20 min active time) ===
+
+1. Copy prompt (30 sec)
+2. Paste to Claude Code (30 sec)
+3. Wait for Claude to write (10-15 min) ← DO OTHER WORK DURING THIS
+4. Run quality checker (2 min)
+5. If score < 97, ask Claude to enhance (5 min)
+6. Copy result to document (1 min)
+7. Commit to GitHub (1 min)
+
+111 sections remaining × 20 minutes each = Background work you can do alongside other projects
+
+=== QUALITY CONTROL (AUTOMATED) ===
+
+One command tells you if the work is ready:
+
+$ python3 quality_checker.py --section "Proverbs"
+Score: 98/100 (A+) ✅ Ready to commit!
+
+If score is low, it tells you exactly what to fix. You paste that to Claude, and it fixes automatically.
+
+No guesswork!
+
+=== GETTING STARTED ===
+
+1. Accept job → Receive $75 deposit immediately
+2. Clone repository: https://github.com/IGTA-Tech/biblical-narrative-completion
+3. Read START_HERE.md (5 minutes)
+4. Complete first section using the prompts (30 minutes)
+5. Repeat 110 more times, getting paid every 28 sections
+
+=== FILES YOU'LL USE ===
+
+• START_HERE.md - Quick start guide (5 min read)
+• SESSION_WORKFLOW.md - Step-by-step for each session
+• PROMPT_FOR_CLAUDE.md - Copy/paste prompts for different books
+• quality_checker.py - Automated quality verification
+• progress_tracker.py - Track progress to next payment
+• SECTION_TEMPLATE.md - Exact structure needed
+
+Everything is documented. Just follow the instructions.
+
+=== PERFECT FOR ===
+
+• Developers who want background income
+• Anyone comfortable with Git + Python + AI tools
+• People who like automated, systematic work
+• Those who can multitask while Claude processes
+
+This is NOT creative work. It's process management. The AI creates, the scripts verify, you coordinate.
+
+=== INTERESTED? ===
+
+Reply with:
+1. Confirmation you can use Claude Code + Python + Git
+2. Your availability to start
+
+Upon acceptance:
+→ $75 deposit sent immediately
+→ Access to repository
+→ Start earning as you complete milestones
+
+This is straightforward, well-documented, automated work. Perfect for earning $375 while working on other projects!
+
+Let me know if you're interested!
+
+Best,
+[Your Name]
+
+P.S. - Repository has everything ready to go. You can start earning within 30 minutes of accepting the job. First payment ($75 deposit) is immediate!
